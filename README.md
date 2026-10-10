@@ -295,5 +295,26 @@ This project demonstrates how multiple fraud detection techniques can be combine
 It is designed as a portfolio project demonstrating machine learning, anomaly detection, explainable investigation, graph analysis, REST APIs, and interactive dashboards.
 
 
+## Screenshots
+
+![Screenshot 1](screenshots/Screenshot%202026-10-10%20105850.png)
+
+![Screenshot 2](screenshots/Screenshot%202026-10-10%20105945.png)
+
+![Screenshot 3](screenshots/Screenshot%202026-10-10%20110009.png)
+
+![Screenshot 4](screenshots/Screenshot%202026-10-10%20110031.png)
+
+![Screenshot 5](screenshots/Screenshot%202026-10-10%20110236.png)
+
+![Screenshot 6](screenshots/Screenshot%202026-10-10%20110259.png)
+
+![Screenshot 7](screenshots/Screenshot%202026-10-10%20110319.png)
+
+![Screenshot 8](screenshots/Screenshot%202026-10-10%20110351.png)
+
+![Screenshot 9](screenshots/Screenshot%202026-10-10%20110431.png)
+
+
 
 
