@@ -179,6 +179,17 @@ transaction-fraud-investigator/
 ├── data/
 │   └── model_evaluation.json
 │
+├── screenshots/
+│   ├── Screenshot 2026-10-10 105850.png
+│   ├── Screenshot 2026-10-10 105945.png
+│   ├── Screenshot 2026-10-10 110009.png
+│   ├── Screenshot 2026-10-10 110031.png
+│   ├── Screenshot 2026-10-10 110236.png
+│   ├── Screenshot 2026-10-10 110259.png
+│   ├── Screenshot 2026-10-10 110319.png
+│   ├── Screenshot 2026-10-10 110351.png
+│   └── Screenshot 2026-10-10 110431.png
+│
 ├── src/
 │   ├── anomaly_detector.py
 │   ├── create_alerts.py
