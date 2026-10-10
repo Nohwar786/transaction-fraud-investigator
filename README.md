@@ -293,3 +293,43 @@ This keeps the repository lightweight and focused on the source code.
 This project demonstrates how multiple fraud detection techniques can be combined into an investigation-oriented platform rather than relying only on a single machine learning classifier.
 
 It is designed as a portfolio project demonstrating machine learning, anomaly detection, explainable investigation, graph analysis, REST APIs, and interactive dashboards.
+
+
+
+## 📸 Project Screenshots
+
+### 1. Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### 2. Transaction Data
+
+![Transaction Data](screenshots/transaction-data.png)
+
+### 3. Fraud Detection Results
+
+![Fraud Detection](screenshots/fraud-detection.png)
+
+### 4. Risk Analysis
+
+![Risk Analysis](screenshots/risk-analysis.png)
+
+### 5. Transaction Investigation
+
+![Transaction Investigation](screenshots/transaction-investigation.png)
+
+### 6. Anomaly Detection
+
+![Anomaly Detection](screenshots/anomaly-detection.png)
+
+### 7. Fraud Summary
+
+![Fraud Summary](screenshots/fraud-summary.png)
+
+### 8. Investigation Details
+
+![Investigation Details](screenshots/investigation-details.png)
+
+### 9. Additional Results
+
+![Additional Results](screenshots/additional-results.png)
